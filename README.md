@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Berat Arda Keklicek
+- 👋 Hi, I’m Berat Arda
 - 👀 I’m interested in Artificial Intelligence and Machine Learning.
 - 🌱 I’m currently learning Developing Mobile Apps using some frameworks such as React Native
 
